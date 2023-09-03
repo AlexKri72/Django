@@ -1,0 +1,48 @@
+Watching for file changes with StatReloader
+"GET /cube/ HTTP/1.1" 200 1
+"GET /cube/ HTTP/1.1" 200 1
+"GET /cube/ HTTP/1.1" 200 1
+"GET /cube/ HTTP/1.1" 200 1
+C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\1\Desktop\DjangoSeminar\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\1\Desktop\DjangoSeminar\myproject\settings.py changed, reloading.
+INFO 2023-09-01 00:14:28,773 autoreload 1684 19124 Watching for file changes with StatReloader
+INFO 2023-09-01 00:34:44,610 basehttp 1684 19540 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-09-01 00:34:45,340 basehttp 1684 19540 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-09-01 00:34:46,029 basehttp 1684 19540 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-09-01 00:34:46,704 basehttp 1684 19540 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-09-01 00:34:46,967 basehttp 1684 19540 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-09-01 00:34:47,233 basehttp 1684 19540 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-09-01 00:34:47,508 basehttp 1684 19540 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-09-01 00:34:47,782 basehttp 1684 19540 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-09-01 00:34:48,051 basehttp 1684 19540 "GET /cube/ HTTP/1.1" 200 1
+INFO 2023-09-01 00:40:19,382 autoreload 1684 19124 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-01 00:40:20,040 autoreload 18312 19560 Watching for file changes with StatReloader
+INFO 2023-09-03 13:05:14,656 autoreload 2152 22084 Watching for file changes with StatReloader
+INFO 2023-09-03 13:11:50,327 autoreload 2152 22084 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-03 13:11:51,365 autoreload 17664 20116 Watching for file changes with StatReloader
+INFO 2023-09-03 13:12:35,999 autoreload 17664 20116 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-03 13:12:37,733 autoreload 5548 2544 Watching for file changes with StatReloader
+INFO 2023-09-03 13:12:58,166 basehttp 5548 18460 "GET /home HTTP/1.1" 301 0
+INFO 2023-09-03 13:12:58,192 basehttp 5548 9152 "GET /home/ HTTP/1.1" 200 166
+INFO 2023-09-03 13:14:40,840 autoreload 5548 2544 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-03 13:14:41,860 autoreload 3176 19964 Watching for file changes with StatReloader
+INFO 2023-09-03 13:15:07,130 autoreload 3176 19964 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-03 13:15:07,914 autoreload 9448 22488 Watching for file changes with StatReloader
+INFO 2023-09-03 13:15:11,957 autoreload 9448 22488 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-03 13:15:12,974 autoreload 20756 20252 Watching for file changes with StatReloader
+INFO 2023-09-03 13:15:21,201 autoreload 20756 20252 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-03 13:15:22,359 autoreload 3404 19848 Watching for file changes with StatReloader
+INFO 2023-09-03 13:15:36,717 basehttp 3404 7360 "GET /about HTTP/1.1" 301 0
+INFO 2023-09-03 13:15:36,729 basehttp 3404 8292 "GET /about/ HTTP/1.1" 200 166
+INFO 2023-09-03 13:15:41,030 basehttp 3404 8292 "GET /about/ HTTP/1.1" 200 166
+INFO 2023-09-03 13:15:47,600 basehttp 3404 8292 "GET /about/ HTTP/1.1" 200 166
+INFO 2023-09-03 13:16:09,758 autoreload 3404 19848 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-03 13:16:10,785 autoreload 20764 22104 Watching for file changes with StatReloader
+INFO 2023-09-03 13:16:20,253 basehttp 20764 18988 "GET /about/ HTTP/1.1" 200 148
