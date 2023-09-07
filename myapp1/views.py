@@ -46,4 +46,21 @@ def about(request):
 </html>'''
     return HttpResponse(html)
 
+from myapp1.models import GameModel, Post
+
+def index(request):
+    result = ('TAIL', 'HEADS')[randint(0, 1)]
+    game = GameModel(result=result)
+    game.save()
+    return HttpResponse(f'{game}')
+
+def last_game(request):
+    last=GameModel().return_last(5)
+    return HttpResponse('<br>'+ str(i) for i in last)
+
+from  myapp1.models import Autor
+def autor(request):
+    res= Autor.objects.all()
+    return  HttpResponse(res)
+
 

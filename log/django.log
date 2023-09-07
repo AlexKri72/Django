@@ -46,3 +46,160 @@ INFO 2023-09-03 13:15:47,600 basehttp 3404 8292 "GET /about/ HTTP/1.1" 200 166
 INFO 2023-09-03 13:16:09,758 autoreload 3404 19848 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
 INFO 2023-09-03 13:16:10,785 autoreload 20764 22104 Watching for file changes with StatReloader
 INFO 2023-09-03 13:16:20,253 basehttp 20764 18988 "GET /about/ HTTP/1.1" 200 148
+INFO 2023-09-06 22:49:37,257 autoreload 19872 12164 Watching for file changes with StatReloader
+INFO 2023-09-06 22:52:56,213 autoreload 19872 12164 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-06 22:52:57,016 autoreload 7868 20644 Watching for file changes with StatReloader
+INFO 2023-09-06 22:53:25,890 autoreload 7868 20644 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-06 22:53:27,464 autoreload 15108 7412 Watching for file changes with StatReloader
+INFO 2023-09-06 22:53:47,608 autoreload 15108 7412 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-06 22:54:03,969 autoreload 6088 4172 Watching for file changes with StatReloader
+INFO 2023-09-06 22:54:54,179 autoreload 6088 4172 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-06 22:54:55,173 autoreload 19772 17828 Watching for file changes with StatReloader
+ERROR 2023-09-06 22:54:59,924 log 19772 20888 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py", line 58, in last_game
+    last=GameModel().return_last(5)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py", line 12, in return_last
+    return GameModel.object.all()[:n]
+           ^^^^^^^^^^^^^^^^
+AttributeError: type object 'GameModel' has no attribute 'object'
+ERROR 2023-09-06 22:54:59,928 basehttp 19772 20888 "GET / HTTP/1.1" 500 66162
+ERROR 2023-09-06 22:55:05,044 log 19772 20888 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py", line 58, in last_game
+    last=GameModel().return_last(5)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py", line 12, in return_last
+    return GameModel.object.all()[:n]
+           ^^^^^^^^^^^^^^^^
+AttributeError: type object 'GameModel' has no attribute 'object'
+ERROR 2023-09-06 22:55:05,053 basehttp 19772 20888 "GET / HTTP/1.1" 500 66299
+INFO 2023-09-06 23:07:05,767 autoreload 19772 17828 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-06 23:07:06,586 autoreload 17668 22360 Watching for file changes with StatReloader
+WARNING 2023-09-06 23:07:13,520 log 17668 15884 Not Found: /
+WARNING 2023-09-06 23:07:13,535 basehttp 17668 15884 "GET / HTTP/1.1" 404 3067
+WARNING 2023-09-06 23:07:14,545 log 17668 15884 Not Found: /favicon.ico
+WARNING 2023-09-06 23:07:14,550 basehttp 17668 15884 "GET /favicon.ico HTTP/1.1" 404 3118
+WARNING 2023-09-06 23:07:14,598 log 17668 1864 Not Found: /favicon.ico
+WARNING 2023-09-06 23:07:14,599 basehttp 17668 1864 "GET /favicon.ico HTTP/1.1" 404 3118
+INFO 2023-09-06 23:07:21,255 basehttp 17668 16048 "GET /game HTTP/1.1" 301 0
+ERROR 2023-09-06 23:07:21,321 log 17668 19352 Internal Server Error: /game/
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py", line 58, in last_game
+    last=GameModel().return_last(5)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py", line 12, in return_last
+    return GameModel.object.all()[:n]
+           ^^^^^^^^^^^^^^^^
+AttributeError: type object 'GameModel' has no attribute 'object'
+ERROR 2023-09-06 23:07:21,323 basehttp 17668 19352 "GET /game/ HTTP/1.1" 500 66212
+INFO 2023-09-06 23:08:31,836 autoreload 17668 22360 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-06 23:08:32,642 autoreload 17340 17380 Watching for file changes with StatReloader
+ERROR 2023-09-06 23:08:39,520 log 17340 12684 Internal Server Error: /game/
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py", line 58, in last_game
+    last=GameModel().return_last(5)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py", line 12, in return_last
+    return GameModel.all()[:n]
+           ^^^^^^^^^^^^^
+AttributeError: type object 'GameModel' has no attribute 'all'
+ERROR 2023-09-06 23:08:39,522 basehttp 17340 12684 "GET /game/ HTTP/1.1" 500 66317
+INFO 2023-09-06 23:10:04,086 autoreload 17340 17380 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-06 23:10:04,845 autoreload 17020 17024 Watching for file changes with StatReloader
+INFO 2023-09-06 23:10:57,915 autoreload 17020 17024 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-06 23:10:58,710 autoreload 16688 5684 Watching for file changes with StatReloader
+INFO 2023-09-06 23:11:07,094 basehttp 16688 22304 "GET /game/ HTTP/1.1" 200 160
+INFO 2023-09-06 23:12:22,108 autoreload 16688 5684 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-06 23:12:22,925 autoreload 7364 11356 Watching for file changes with StatReloader
+INFO 2023-09-06 23:13:10,101 autoreload 7364 11356 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-06 23:13:10,921 autoreload 9496 5192 Watching for file changes with StatReloader
+INFO 2023-09-06 23:13:46,547 autoreload 9496 5192 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-06 23:13:47,330 autoreload 19384 11728 Watching for file changes with StatReloader
+ERROR 2023-09-06 23:13:54,851 log 19384 7400 Internal Server Error: /game/
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py", line 59, in last_game
+    return HttpResponse(*last,sep='')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\http\response.py", line 374, in __init__
+    super().__init__(*args, **kwargs)
+TypeError: HttpResponseBase.__init__() got an unexpected keyword argument 'sep'
+ERROR 2023-09-06 23:13:54,854 basehttp 19384 7400 "GET /game/ HTTP/1.1" 500 68608
+INFO 2023-09-06 23:14:13,411 autoreload 19384 11728 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-06 23:14:14,196 autoreload 23504 16652 Watching for file changes with StatReloader
+INFO 2023-09-06 23:14:49,698 autoreload 23504 16652 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-06 23:14:50,489 autoreload 8628 20548 Watching for file changes with StatReloader
+INFO 2023-09-06 23:17:43,252 autoreload 8628 20548 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-06 23:17:44,038 autoreload 15856 8460 Watching for file changes with StatReloader
+INFO 2023-09-06 23:17:50,441 basehttp 15856 21696 "GET /game/ HTTP/1.1" 200 168
+INFO 2023-09-06 23:19:01,816 autoreload 15856 8460 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-06 23:19:02,589 autoreload 23024 14152 Watching for file changes with StatReloader
+INFO 2023-09-06 23:21:03,047 autoreload 23024 14152 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-06 23:21:03,817 autoreload 10632 14260 Watching for file changes with StatReloader
+INFO 2023-09-06 23:21:08,980 basehttp 10632 15108 "GET /game/ HTTP/1.1" 200 168
+INFO 2023-09-06 23:39:36,350 autoreload 10632 14260 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-06 23:39:37,274 autoreload 21696 22340 Watching for file changes with StatReloader
+INFO 2023-09-06 23:43:15,054 autoreload 21696 22340 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-06 23:43:15,675 autoreload 22872 21888 Watching for file changes with StatReloader
+INFO 2023-09-06 23:44:38,357 autoreload 22872 21888 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-06 23:44:38,999 autoreload 21652 21744 Watching for file changes with StatReloader
+INFO 2023-09-06 23:44:53,802 autoreload 21652 21744 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-06 23:44:54,428 autoreload 3736 10380 Watching for file changes with StatReloader
+INFO 2023-09-06 23:46:09,062 autoreload 3736 10380 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-06 23:46:09,706 autoreload 21712 19968 Watching for file changes with StatReloader
+INFO 2023-09-07 00:06:43,569 autoreload 17048 8200 Watching for file changes with StatReloader
+WARNING 2023-09-07 00:06:46,565 log 17048 23428 Not Found: /
+WARNING 2023-09-07 00:06:46,565 basehttp 17048 23428 "GET / HTTP/1.1" 404 3234
+INFO 2023-09-07 00:06:54,953 basehttp 17048 23428 "GET /autor HTTP/1.1" 301 0
+INFO 2023-09-07 00:06:54,966 basehttp 17048 18216 "GET /autor/ HTTP/1.1" 200 450
+INFO 2023-09-07 22:00:03,130 autoreload 17048 8200 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-07 22:00:03,902 autoreload 5012 18680 Watching for file changes with StatReloader
+INFO 2023-09-07 22:05:25,212 autoreload 5012 18680 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-07 22:05:26,037 autoreload 3344 5292 Watching for file changes with StatReloader
+INFO 2023-09-07 22:07:36,758 autoreload 3344 5292 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-07 22:07:37,449 autoreload 18484 20192 Watching for file changes with StatReloader
+INFO 2023-09-07 22:09:14,633 autoreload 18484 20192 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-07 22:09:15,328 autoreload 20028 4492 Watching for file changes with StatReloader
+INFO 2023-09-07 22:11:05,787 autoreload 20028 4492 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-07 22:11:06,421 autoreload 16652 5680 Watching for file changes with StatReloader
+INFO 2023-09-07 22:12:03,719 autoreload 16652 5680 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-07 22:12:04,375 autoreload 20864 19980 Watching for file changes with StatReloader
+INFO 2023-09-07 22:12:49,743 autoreload 20864 19980 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-07 22:12:50,357 autoreload 5412 18152 Watching for file changes with StatReloader
+INFO 2023-09-07 22:13:48,238 autoreload 5412 18152 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-07 22:13:48,897 autoreload 22916 1160 Watching for file changes with StatReloader
+INFO 2023-09-07 22:15:47,207 autoreload 22916 1160 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-07 22:15:47,867 autoreload 12588 5340 Watching for file changes with StatReloader
+INFO 2023-09-07 22:17:54,572 autoreload 12588 5340 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-07 22:17:55,252 autoreload 15796 19744 Watching for file changes with StatReloader
