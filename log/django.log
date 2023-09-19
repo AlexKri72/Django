@@ -203,3 +203,1337 @@ INFO 2023-09-07 22:15:47,207 autoreload 22916 1160 C:\Users\1\Desktop\DjangoSemi
 INFO 2023-09-07 22:15:47,867 autoreload 12588 5340 Watching for file changes with StatReloader
 INFO 2023-09-07 22:17:54,572 autoreload 12588 5340 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
 INFO 2023-09-07 22:17:55,252 autoreload 15796 19744 Watching for file changes with StatReloader
+INFO 2023-09-09 18:55:22,177 autoreload 11348 10292 Watching for file changes with StatReloader
+WARNING 2023-09-09 18:55:26,416 log 11348 11308 Not Found: /
+WARNING 2023-09-09 18:55:26,417 basehttp 11348 11308 "GET / HTTP/1.1" 404 3344
+INFO 2023-09-09 18:55:44,630 basehttp 11348 11308 "GET /lection03/hello HTTP/1.1" 301 0
+INFO 2023-09-09 18:55:44,638 basehttp 11348 8368 "GET /lection03/hello/ HTTP/1.1" 200 26
+INFO 2023-09-09 18:55:53,085 basehttp 11348 8368 "GET /lection03/hello2/ HTTP/1.1" 200 23
+INFO 2023-09-09 19:05:41,067 autoreload 11348 10292 C:\Users\1\Desktop\DjangoSeminar\lection03\urls.py changed, reloading.
+INFO 2023-09-09 19:05:41,727 autoreload 14172 17324 Watching for file changes with StatReloader
+INFO 2023-09-09 19:05:58,871 autoreload 14172 17324 C:\Users\1\Desktop\DjangoSeminar\lection03\urls.py changed, reloading.
+INFO 2023-09-09 19:05:59,464 autoreload 13212 23204 Watching for file changes with StatReloader
+INFO 2023-09-09 19:12:50,579 autoreload 13212 23204 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-09 19:12:51,173 autoreload 17884 19628 Watching for file changes with StatReloader
+INFO 2023-09-09 19:13:02,958 autoreload 17884 19628 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-09 19:13:03,572 autoreload 18548 18776 Watching for file changes with StatReloader
+INFO 2023-09-09 19:13:47,676 autoreload 18548 18776 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-09 19:13:48,223 autoreload 1964 2864 Watching for file changes with StatReloader
+INFO 2023-09-09 19:13:59,044 autoreload 1964 2864 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-09 19:13:59,704 autoreload 14172 17932 Watching for file changes with StatReloader
+INFO 2023-09-09 19:15:34,413 autoreload 14172 17932 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-09 19:15:34,948 autoreload 20268 10416 Watching for file changes with StatReloader
+INFO 2023-09-09 19:18:55,444 basehttp 20268 19864 "GET /lection03/posts/2022/ HTTP/1.1" 200 19
+INFO 2023-09-09 19:19:14,669 basehttp 20268 19864 "GET /lection03/posts/2022/2/ HTTP/1.1" 200 20
+INFO 2023-09-09 19:19:42,342 autoreload 20268 10416 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-09 19:19:42,921 autoreload 21052 18092 Watching for file changes with StatReloader
+INFO 2023-09-09 19:20:29,257 basehttp 21052 1852 "GET /lection03/posts/2022/2/kvbvowuvworvov HTTP/1.1" 301 0
+INFO 2023-09-09 19:20:29,268 basehttp 21052 23040 "GET /lection03/posts/2022/2/kvbvowuvworvov/ HTTP/1.1" 200 368
+INFO 2023-09-09 19:29:26,813 autoreload 21052 18092 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-09 19:29:27,451 autoreload 19132 4884 Watching for file changes with StatReloader
+INFO 2023-09-09 19:30:25,243 autoreload 19132 4884 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-09 19:30:25,790 autoreload 19528 2756 Watching for file changes with StatReloader
+INFO 2023-09-09 19:32:41,399 autoreload 19528 2756 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-09 19:32:41,954 autoreload 7440 23276 Watching for file changes with StatReloader
+INFO 2023-09-09 19:33:44,408 autoreload 7440 23276 C:\Users\1\Desktop\DjangoSeminar\lection03\urls.py changed, reloading.
+INFO 2023-09-09 19:33:44,995 autoreload 16116 12552 Watching for file changes with StatReloader
+INFO 2023-09-09 19:34:10,663 autoreload 16116 12552 C:\Users\1\Desktop\DjangoSeminar\lection03\urls.py changed, reloading.
+INFO 2023-09-09 19:34:11,234 autoreload 16296 18916 Watching for file changes with StatReloader
+INFO 2023-09-09 19:34:25,323 autoreload 16296 18916 C:\Users\1\Desktop\DjangoSeminar\lection03\urls.py changed, reloading.
+INFO 2023-09-09 19:34:25,894 autoreload 7264 15408 Watching for file changes with StatReloader
+WARNING 2023-09-09 19:34:42,567 log 7264 4720 Not Found: /name/
+WARNING 2023-09-09 19:34:42,569 basehttp 7264 4720 "GET /name/ HTTP/1.1" 404 3377
+WARNING 2023-09-09 19:35:07,110 log 7264 4720 Not Found: /lection03/name/
+WARNING 2023-09-09 19:35:07,111 basehttp 7264 4720 "GET /lection03/name/ HTTP/1.1" 404 4479
+INFO 2023-09-09 19:35:31,536 autoreload 7264 15408 C:\Users\1\Desktop\DjangoSeminar\lection03\urls.py changed, reloading.
+INFO 2023-09-09 19:35:32,100 autoreload 21216 8460 Watching for file changes with StatReloader
+INFO 2023-09-09 19:35:48,086 basehttp 21216 8940 "GET /lection03/ HTTP/1.1" 200 174
+INFO 2023-09-10 00:08:11,146 autoreload 21216 8460 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-10 00:08:11,907 autoreload 16976 15720 Watching for file changes with StatReloader
+INFO 2023-09-10 00:09:28,619 autoreload 16976 15720 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-10 00:09:29,155 autoreload 1680 19312 Watching for file changes with StatReloader
+INFO 2023-09-10 00:09:45,355 autoreload 1680 19312 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-10 00:09:45,891 autoreload 9012 7900 Watching for file changes with StatReloader
+INFO 2023-09-10 00:10:04,178 autoreload 9012 7900 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-10 00:10:04,733 autoreload 7164 5768 Watching for file changes with StatReloader
+INFO 2023-09-10 00:15:50,489 autoreload 7164 5768 C:\Users\1\Desktop\DjangoSeminar\lection03\urls.py changed, reloading.
+INFO 2023-09-10 00:15:51,094 autoreload 6652 23496 Watching for file changes with StatReloader
+INFO 2023-09-10 00:16:32,755 basehttp 6652 20736 "GET /lection03/if/ HTTP/1.1" 200 347
+INFO 2023-09-10 00:23:42,800 autoreload 6652 23496 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-10 00:23:43,411 autoreload 17800 6740 Watching for file changes with StatReloader
+INFO 2023-09-10 00:24:01,735 autoreload 17800 6740 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-10 00:24:02,280 autoreload 22936 9988 Watching for file changes with StatReloader
+INFO 2023-09-10 00:24:17,325 autoreload 22936 9988 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-10 00:24:17,960 autoreload 21428 22584 Watching for file changes with StatReloader
+INFO 2023-09-10 00:26:28,004 autoreload 21428 22584 C:\Users\1\Desktop\DjangoSeminar\lection03\urls.py changed, reloading.
+INFO 2023-09-10 00:26:28,613 autoreload 7176 18164 Watching for file changes with StatReloader
+INFO 2023-09-10 00:26:52,151 basehttp 7176 9740 "GET /lection03/for/ HTTP/1.1" 200 1106
+INFO 2023-09-10 00:43:38,438 autoreload 7176 18164 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-10 00:43:39,110 autoreload 11444 16008 Watching for file changes with StatReloader
+INFO 2023-09-10 00:45:10,682 autoreload 11444 16008 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-10 00:45:11,283 autoreload 17600 22168 Watching for file changes with StatReloader
+INFO 2023-09-10 00:47:04,509 autoreload 17600 22168 C:\Users\1\Desktop\DjangoSeminar\lection03\urls.py changed, reloading.
+INFO 2023-09-10 00:47:05,070 autoreload 14172 20744 Watching for file changes with StatReloader
+INFO 2023-09-10 00:47:43,421 basehttp 14172 17684 "GET /lection03/index/ HTTP/1.1" 200 251
+INFO 2023-09-10 00:48:05,411 basehttp 14172 17684 "GET /lection03/about/ HTTP/1.1" 200 257
+INFO 2023-09-10 00:50:10,944 autoreload 14172 20744 C:\Users\1\Desktop\DjangoSeminar\myproject\settings.py changed, reloading.
+INFO 2023-09-10 00:50:11,505 autoreload 9964 18256 Watching for file changes with StatReloader
+INFO 2023-09-10 09:37:08,870 basehttp 9964 3524 "GET /lection03/about/ HTTP/1.1" 200 257
+ERROR 2023-09-10 09:37:29,161 log 9964 3524 Internal Server Error: /lection03/index/
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\lection03\views.py", line 65, in index
+    return render(request,'lection03/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+ERROR 2023-09-10 09:37:29,167 basehttp 9964 3524 "GET /lection03/index/ HTTP/1.1" 500 128711
+ERROR 2023-09-10 09:38:19,348 log 9964 3524 Internal Server Error: /lection03/index/
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myproject/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\lection03\views.py", line 65, in index
+    return render(request,'lection03/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myproject/base.html
+ERROR 2023-09-10 09:38:19,353 basehttp 9964 3524 "GET /lection03/index/ HTTP/1.1" 500 129213
+ERROR 2023-09-10 09:39:36,416 log 9964 3524 Internal Server Error: /lection03/index/
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myproject/templates/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\lection03\views.py", line 65, in index
+    return render(request,'lection03/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myproject/templates/base.html
+ERROR 2023-09-10 09:39:36,420 basehttp 9964 3524 "GET /lection03/index/ HTTP/1.1" 500 129578
+INFO 2023-09-10 09:40:47,699 autoreload 9964 18256 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-10 09:40:48,377 autoreload 19836 15548 Watching for file changes with StatReloader
+ERROR 2023-09-10 09:40:55,036 log 19836 2888 Internal Server Error: /lection03/index/
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\lection03\views.py", line 65, in index
+    return render(request,'myproject/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myproject/index.html
+ERROR 2023-09-10 09:40:55,039 basehttp 19836 2888 "GET /lection03/index/ HTTP/1.1" 500 79970
+INFO 2023-09-10 09:41:19,424 autoreload 19836 15548 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-10 09:41:20,006 autoreload 13344 6464 Watching for file changes with StatReloader
+ERROR 2023-09-10 09:41:28,787 log 13344 22644 Internal Server Error: /lection03/index/
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\lection03\views.py", line 65, in index
+    return render(request,'myproject/templates/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myproject/templates/index.html
+ERROR 2023-09-10 09:41:28,790 basehttp 13344 22644 "GET /lection03/index/ HTTP/1.1" 500 80190
+ERROR 2023-09-10 09:41:30,664 log 13344 22644 Internal Server Error: /lection03/index/
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\lection03\views.py", line 65, in index
+    return render(request,'myproject/templates/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myproject/templates/index.html
+ERROR 2023-09-10 09:41:30,666 basehttp 13344 22644 "GET /lection03/index/ HTTP/1.1" 500 80190
+INFO 2023-09-10 09:43:37,809 autoreload 13344 6464 C:\Users\1\Desktop\DjangoSeminar\lection03\views.py changed, reloading.
+INFO 2023-09-10 09:43:38,394 autoreload 15144 21892 Watching for file changes with StatReloader
+INFO 2023-09-10 09:49:34,406 autoreload 15144 21892 C:\Users\1\Desktop\DjangoSeminar\myproject\urls.py changed, reloading.
+INFO 2023-09-10 09:49:34,981 autoreload 13840 12292 Watching for file changes with StatReloader
+INFO 2023-09-10 09:50:34,159 autoreload 13840 12292 C:\Users\1\Desktop\DjangoSeminar\myproject\urls.py changed, reloading.
+INFO 2023-09-10 09:50:34,809 autoreload 11852 20760 Watching for file changes with StatReloader
+INFO 2023-09-10 21:27:54,532 autoreload 11852 20760 C:\Users\1\Desktop\DjangoSeminar\lection03\models.py changed, reloading.
+INFO 2023-09-10 21:27:55,292 autoreload 18112 8568 Watching for file changes with StatReloader
+INFO 2023-09-10 21:28:14,465 autoreload 18112 8568 C:\Users\1\Desktop\DjangoSeminar\lection03\models.py changed, reloading.
+INFO 2023-09-10 21:28:15,019 autoreload 10708 17356 Watching for file changes with StatReloader
+INFO 2023-09-10 22:12:56,518 autoreload 7140 6436 Watching for file changes with StatReloader
+INFO 2023-09-10 22:13:27,170 autoreload 7140 6436 C:\Users\1\Desktop\DjangoSeminar\lection03\urls.py changed, reloading.
+INFO 2023-09-10 22:13:27,747 autoreload 17140 22812 Watching for file changes with StatReloader
+ERROR 2023-09-10 22:13:54,420 log 17140 18196 Internal Server Error: /lection03/author/5/
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: lection03.base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\lection03\views.py", line 74, in author_posts
+    return render(request, 'lection03/author_posts.html', {'author':author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: lection03.base.html
+ERROR 2023-09-10 22:13:54,427 basehttp 17140 18196 "GET /lection03/author/5/ HTTP/1.1" 500 131158
+INFO 2023-09-10 22:14:52,878 basehttp 17140 18196 "GET /lection03/author/5/ HTTP/1.1" 200 1088
+INFO 2023-09-10 22:38:10,989 basehttp 17140 15032 "GET /lection03/post/50/ HTTP/1.1" 200 652
+INFO 2023-09-11 21:47:31,549 autoreload 22792 17936 Watching for file changes with StatReloader
+INFO 2023-09-11 21:47:47,640 basehttp 22792 14124 "GET /myapp1/ HTTP/1.1" 200 417
+WARNING 2023-09-11 21:48:00,727 log 22792 14124 Not Found: /myapp1/about.html
+WARNING 2023-09-11 21:48:00,728 basehttp 22792 14124 "GET /myapp1/about.html HTTP/1.1" 404 5432
+INFO 2023-09-11 21:48:18,967 basehttp 22792 14124 "GET /myapp1/aboutviews/ HTTP/1.1" 200 412
+INFO 2023-09-11 22:17:11,950 basehttp 22792 15592 "GET /myapp1/aboutviews/ HTTP/1.1" 200 412
+INFO 2023-09-11 22:17:14,340 basehttp 22792 15592 "GET /myapp1/ HTTP/1.1" 200 426
+INFO 2023-09-11 22:17:16,951 basehttp 22792 15592 "GET /myapp1/aboutviews/ HTTP/1.1" 200 412
+INFO 2023-09-11 22:17:19,550 basehttp 22792 15592 "GET /myapp1/ HTTP/1.1" 200 426
+INFO 2023-09-11 22:17:21,394 basehttp 22792 15592 "GET /myapp1/aboutviews/ HTTP/1.1" 200 412
+INFO 2023-09-11 22:30:25,370 basehttp 22792 2288 "GET /myapp1/aboutviews/ HTTP/1.1" 200 418
+INFO 2023-09-11 22:30:27,548 basehttp 22792 2288 "GET /myapp1/aboutviews/ HTTP/1.1" 200 418
+INFO 2023-09-11 22:30:29,489 basehttp 22792 2288 "GET /myapp1/ HTTP/1.1" 200 455
+INFO 2023-09-11 22:30:32,920 basehttp 22792 2288 "GET /myapp1/aboutviews/ HTTP/1.1" 200 418
+INFO 2023-09-11 22:39:22,205 autoreload 22792 17936 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 22:39:22,840 autoreload 23268 13516 Watching for file changes with StatReloader
+INFO 2023-09-11 22:39:53,390 autoreload 23268 13516 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 22:39:54,005 autoreload 22392 11316 Watching for file changes with StatReloader
+INFO 2023-09-11 22:40:07,820 autoreload 22392 11316 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 22:40:08,410 autoreload 11472 21720 Watching for file changes with StatReloader
+INFO 2023-09-11 22:40:19,065 autoreload 11472 21720 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 22:40:19,633 autoreload 11944 3104 Watching for file changes with StatReloader
+INFO 2023-09-11 22:41:06,871 autoreload 11944 3104 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 22:41:07,449 autoreload 18116 18028 Watching for file changes with StatReloader
+INFO 2023-09-11 22:44:00,180 autoreload 18116 18028 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 22:44:00,783 autoreload 956 17100 Watching for file changes with StatReloader
+INFO 2023-09-11 22:44:31,897 autoreload 956 17100 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 22:44:32,440 autoreload 15160 20788 Watching for file changes with StatReloader
+INFO 2023-09-11 22:45:04,580 autoreload 15160 20788 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 22:45:05,111 autoreload 19236 320 Watching for file changes with StatReloader
+INFO 2023-09-11 22:45:55,996 autoreload 19236 320 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 22:45:56,541 autoreload 15872 20784 Watching for file changes with StatReloader
+INFO 2023-09-11 22:47:22,264 autoreload 15872 20784 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 22:47:22,850 autoreload 12692 11316 Watching for file changes with StatReloader
+INFO 2023-09-11 22:48:20,036 autoreload 12692 11316 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 22:48:20,584 autoreload 20580 5560 Watching for file changes with StatReloader
+INFO 2023-09-11 22:50:35,861 autoreload 20580 5560 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-11 22:50:36,460 autoreload 22328 4136 Watching for file changes with StatReloader
+INFO 2023-09-11 22:57:29,005 autoreload 9248 14600 Watching for file changes with StatReloader
+INFO 2023-09-11 23:30:03,166 autoreload 9496 12584 Watching for file changes with StatReloader
+INFO 2023-09-11 23:31:13,283 autoreload 8184 17172 Watching for file changes with StatReloader
+INFO 2023-09-11 23:32:18,462 autoreload 7384 22612 Watching for file changes with StatReloader
+INFO 2023-09-11 23:35:32,272 autoreload 9060 16732 Watching for file changes with StatReloader
+INFO 2023-09-11 23:36:39,995 autoreload 18092 12480 Watching for file changes with StatReloader
+INFO 2023-09-11 23:36:43,193 basehttp 18092 16104 "GET / HTTP/1.1" 200 455
+WARNING 2023-09-11 23:36:53,827 log 18092 16104 Not Found: /headgame
+WARNING 2023-09-11 23:36:53,828 basehttp 18092 16104 "GET /headgame HTTP/1.1" 404 4315
+INFO 2023-09-11 23:37:06,863 basehttp 18092 16104 "GET /headgame/6 HTTP/1.1" 200 193
+INFO 2023-09-11 23:38:37,427 autoreload 18092 12480 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 23:38:38,014 autoreload 8788 12492 Watching for file changes with StatReloader
+INFO 2023-09-11 23:38:44,752 autoreload 8788 12492 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 23:38:45,302 autoreload 11092 19704 Watching for file changes with StatReloader
+INFO 2023-09-11 23:38:50,152 basehttp 11092 22076 "GET /headgame/6 HTTP/1.1" 200 397
+INFO 2023-09-11 23:39:03,289 basehttp 11092 22076 "GET /dicegame/6 HTTP/1.1" 200 380
+INFO 2023-09-11 23:39:24,883 autoreload 11092 19704 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 23:39:25,443 autoreload 23352 20108 Watching for file changes with StatReloader
+INFO 2023-09-11 23:39:32,632 basehttp 23352 7348 "GET /dicegame/6 HTTP/1.1" 200 380
+INFO 2023-09-11 23:39:39,336 basehttp 23352 7348 "GET /dicegame/6 HTTP/1.1" 200 380
+INFO 2023-09-11 23:39:41,065 basehttp 23352 7348 "GET /dicegame/6 HTTP/1.1" 200 380
+INFO 2023-09-11 23:40:51,154 autoreload 23352 20108 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-11 23:40:51,702 autoreload 20112 6572 Watching for file changes with StatReloader
+INFO 2023-09-12 21:45:02,998 autoreload 20112 6572 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-12 21:45:03,737 autoreload 21032 21932 Watching for file changes with StatReloader
+INFO 2023-09-12 21:48:00,298 autoreload 21032 21932 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-12 21:48:00,900 autoreload 15152 1628 Watching for file changes with StatReloader
+INFO 2023-09-12 21:49:53,753 autoreload 15152 1628 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 21:49:54,347 autoreload 13124 11292 Watching for file changes with StatReloader
+INFO 2023-09-12 21:50:48,390 autoreload 13124 11292 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 21:50:49,011 autoreload 5444 17428 Watching for file changes with StatReloader
+INFO 2023-09-12 21:51:15,583 autoreload 5444 17428 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 21:51:16,157 autoreload 21920 15800 Watching for file changes with StatReloader
+INFO 2023-09-12 21:54:16,844 autoreload 21920 15800 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 21:54:17,462 autoreload 17412 21280 Watching for file changes with StatReloader
+INFO 2023-09-12 21:55:02,233 autoreload 17412 21280 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 21:55:02,786 autoreload 15276 9516 Watching for file changes with StatReloader
+INFO 2023-09-12 21:57:02,128 autoreload 15276 9516 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 21:57:02,698 autoreload 23148 17780 Watching for file changes with StatReloader
+INFO 2023-09-12 21:59:01,643 autoreload 23148 17780 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 21:59:02,250 autoreload 16920 10056 Watching for file changes with StatReloader
+INFO 2023-09-12 22:08:49,988 autoreload 16920 10056 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-12 22:08:50,603 autoreload 6020 16960 Watching for file changes with StatReloader
+INFO 2023-09-12 22:08:54,486 basehttp 6020 19816 "GET / HTTP/1.1" 200 455
+ERROR 2023-09-12 22:09:07,724 log 6020 19816 Internal Server Error: /articles/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 226, in get
+    context = self.get_context_data(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py", line 105, in get_context_data
+    author= Autor.objects.get(pk=self.kwargs['id_autor'])
+                                 ~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'id_autor'
+ERROR 2023-09-12 22:09:07,726 basehttp 6020 19816 "GET /articles/3 HTTP/1.1" 500 78409
+INFO 2023-09-12 22:14:40,114 autoreload 15676 12012 Watching for file changes with StatReloader
+ERROR 2023-09-12 22:14:44,979 log 15676 16904 Internal Server Error: /articles/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 226, in get
+    context = self.get_context_data(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py", line 106, in get_context_data
+    articles = Post.objects.filter(author=author).all()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\db\models\sql\query.py", line 1545, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\db\models\sql\query.py", line 1576, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\db\models\sql\query.py", line 1426, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\db\models\sql\query.py", line 1236, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\db\models\sql\query.py", line 1724, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'author' into field. Choices are: autor, autor_id, category, category_id, id, post, publish, publish_date, title, views
+ERROR 2023-09-12 22:14:44,985 basehttp 15676 16904 "GET /articles/3 HTTP/1.1" 500 126875
+INFO 2023-09-12 22:15:51,228 autoreload 15676 12012 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 22:15:51,883 autoreload 15948 11120 Watching for file changes with StatReloader
+ERROR 2023-09-12 22:15:57,168 log 15948 18552 Internal Server Error: /articles/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 292, in do_extends
+    parent_name = parser.compile_filter(bits[1])
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '/base.html' from 'myapp1/base.html'
+ERROR 2023-09-12 22:15:57,168 basehttp 15948 18552 "GET /articles/3 HTTP/1.1" 500 147350
+ERROR 2023-09-12 22:17:37,556 log 15948 18552 Internal Server Error: /articles/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'end'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 5: 'end', expected 'endblock'. Did you forget to register or load this tag?
+ERROR 2023-09-12 22:17:37,562 basehttp 15948 18552 "GET /articles/3 HTTP/1.1" 500 170319
+ERROR 2023-09-12 22:18:00,197 log 15948 18552 Internal Server Error: /articles/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'end'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 17: 'end', expected 'endblock'. Did you forget to register or load this tag?
+ERROR 2023-09-12 22:18:00,201 basehttp 15948 18552 "GET /articles/3 HTTP/1.1" 500 161843
+INFO 2023-09-12 22:18:16,831 basehttp 15948 18552 "GET /articles/3 HTTP/1.1" 200 428
+INFO 2023-09-12 22:19:50,308 basehttp 15948 18552 "GET /articles/3 HTTP/1.1" 200 6845
+INFO 2023-09-12 22:27:41,551 autoreload 15948 11120 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 22:27:42,158 autoreload 7184 6600 Watching for file changes with StatReloader
+INFO 2023-09-12 22:35:30,849 autoreload 7184 6600 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 22:35:31,459 autoreload 3784 16080 Watching for file changes with StatReloader
+INFO 2023-09-12 22:36:39,189 autoreload 3784 16080 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 22:36:39,779 autoreload 9004 6312 Watching for file changes with StatReloader
+INFO 2023-09-12 22:36:56,863 autoreload 9004 6312 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 22:36:57,440 autoreload 19340 404 Watching for file changes with StatReloader
+INFO 2023-09-12 22:38:57,883 autoreload 19340 404 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 22:38:58,479 autoreload 5248 20172 Watching for file changes with StatReloader
+INFO 2023-09-12 22:40:54,459 autoreload 5248 20172 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 22:40:55,029 autoreload 7204 20788 Watching for file changes with StatReloader
+INFO 2023-09-12 22:41:35,309 autoreload 7204 20788 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 22:41:35,902 autoreload 21020 22328 Watching for file changes with StatReloader
+INFO 2023-09-12 22:42:16,262 autoreload 21020 22328 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 22:42:16,849 autoreload 3896 15168 Watching for file changes with StatReloader
+ERROR 2023-09-12 22:51:30,765 log 3896 13552 Internal Server Error: /articles/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\defaulttags.py", line 853, in do_for
+    nodelist_loop = parser.parse(
+                    ^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\defaulttags.py", line 953, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\defaulttags.py", line 1369, in url
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: 'url' takes at least one argument, a URL pattern name.
+ERROR 2023-09-12 22:51:30,773 basehttp 3896 13552 "GET /articles/3 HTTP/1.1" 500 199472
+INFO 2023-09-12 22:52:05,734 basehttp 3896 13552 "GET /articles/3 HTTP/1.1" 200 5245
+INFO 2023-09-12 22:59:16,339 autoreload 3896 15168 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-12 22:59:16,992 autoreload 17932 11168 Watching for file changes with StatReloader
+INFO 2023-09-12 23:00:32,105 autoreload 17932 11168 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-12 23:00:32,709 autoreload 5112 22320 Watching for file changes with StatReloader
+ERROR 2023-09-12 23:03:00,144 log 5112 22084 Internal Server Error: /article/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-09-12 23:03:00,147 basehttp 5112 22084 "GET /article/3 HTTP/1.1" 500 82642
+ERROR 2023-09-12 23:04:09,409 log 5112 22084 Internal Server Error: /article/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-09-12 23:04:09,414 basehttp 5112 22084 "GET /article/3 HTTP/1.1" 500 82779
+ERROR 2023-09-12 23:04:24,210 log 5112 22084 Internal Server Error: /article/10
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-09-12 23:04:24,212 basehttp 5112 22084 "GET /article/10 HTTP/1.1" 500 82658
+ERROR 2023-09-12 23:07:18,278 log 5112 22084 Internal Server Error: /articles/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'article' not found. 'article' is not a valid view function or pattern name.
+ERROR 2023-09-12 23:07:18,285 basehttp 5112 22084 "GET /articles/3 HTTP/1.1" 500 208055
+ERROR 2023-09-12 23:07:59,270 log 5112 22084 Internal Server Error: /articles/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'post' not found. 'post' is not a valid view function or pattern name.
+ERROR 2023-09-12 23:07:59,270 basehttp 5112 22084 "GET /articles/3 HTTP/1.1" 500 207986
+INFO 2023-09-12 23:09:02,992 basehttp 5112 22084 "GET /articles/3 HTTP/1.1" 200 6173
+INFO 2023-09-12 23:11:34,421 autoreload 5112 22320 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-12 23:11:35,076 autoreload 11616 10876 Watching for file changes with StatReloader
+INFO 2023-09-12 23:12:43,900 autoreload 11616 10876 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-12 23:12:44,490 autoreload 6660 23180 Watching for file changes with StatReloader
+INFO 2023-09-12 23:13:27,932 autoreload 6660 23180 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-12 23:13:28,510 autoreload 10052 22180 Watching for file changes with StatReloader
+INFO 2023-09-12 23:14:31,191 autoreload 10052 22180 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-12 23:14:31,723 autoreload 17324 13068 Watching for file changes with StatReloader
+INFO 2023-09-12 23:14:45,536 autoreload 17324 13068 C:\Users\1\Desktop\DjangoSeminar\myapp1\models.py changed, reloading.
+INFO 2023-09-12 23:14:46,090 autoreload 19204 19964 Watching for file changes with StatReloader
+INFO 2023-09-12 23:16:26,133 basehttp 19204 6940 "GET /articles/3 HTTP/1.1" 200 6115
+INFO 2023-09-12 23:16:28,400 basehttp 19204 6940 "GET /articles/3 HTTP/1.1" 200 6115
+ERROR 2023-09-12 23:18:29,890 log 19204 6940 Internal Server Error: /article/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-09-12 23:18:29,892 basehttp 19204 6940 "GET /article/3 HTTP/1.1" 500 82642
+INFO 2023-09-12 23:44:37,584 autoreload 19204 19964 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 23:44:38,272 autoreload 5760 12040 Watching for file changes with StatReloader
+INFO 2023-09-12 23:45:39,656 autoreload 5760 12040 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 23:45:40,234 autoreload 2060 3720 Watching for file changes with StatReloader
+INFO 2023-09-12 23:46:44,739 autoreload 2060 3720 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 23:46:45,321 autoreload 18516 6864 Watching for file changes with StatReloader
+INFO 2023-09-12 23:46:54,078 autoreload 18516 6864 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 23:46:54,695 autoreload 15884 11500 Watching for file changes with StatReloader
+INFO 2023-09-12 23:47:28,751 autoreload 15884 11500 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 23:47:29,341 autoreload 20008 22024 Watching for file changes with StatReloader
+INFO 2023-09-12 23:47:32,932 autoreload 20008 22024 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 23:47:33,523 autoreload 21744 2916 Watching for file changes with StatReloader
+INFO 2023-09-12 23:50:28,316 autoreload 21744 2916 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-12 23:50:28,905 autoreload 7188 20056 Watching for file changes with StatReloader
+INFO 2023-09-12 23:51:30,222 autoreload 7188 20056 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-12 23:51:30,791 autoreload 18820 13296 Watching for file changes with StatReloader
+INFO 2023-09-12 23:51:43,781 autoreload 18820 13296 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-12 23:51:44,336 autoreload 17964 14552 Watching for file changes with StatReloader
+INFO 2023-09-12 23:51:55,316 autoreload 17964 14552 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-12 23:51:55,956 autoreload 22832 7036 Watching for file changes with StatReloader
+INFO 2023-09-12 23:51:58,118 basehttp 22832 3720 "GET / HTTP/1.1" 200 455
+ERROR 2023-09-12 23:52:07,221 log 22832 3720 Internal Server Error: /order/2
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 226, in get
+    context = self.get_context_data(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py", line 124, in get_context_data
+    order= Order.objects.get(pk=self.kwargs['id_order'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\db\models\query.py", line 637, in get
+    raise self.model.DoesNotExist(
+myapp1.models.Order.DoesNotExist: Order matching query does not exist.
+ERROR 2023-09-12 23:52:07,224 basehttp 22832 3720 "GET /order/2 HTTP/1.1" 500 87224
+INFO 2023-09-13 00:22:02,752 autoreload 3012 23100 Watching for file changes with StatReloader
+INFO 2023-09-13 00:22:06,042 basehttp 3012 7888 "GET / HTTP/1.1" 200 455
+WARNING 2023-09-13 00:22:16,200 log 3012 7888 Not Found: /orders/3
+WARNING 2023-09-13 00:22:16,202 basehttp 3012 7888 "GET /orders/3 HTTP/1.1" 404 4889
+INFO 2023-09-13 00:22:29,034 basehttp 3012 7888 "GET /order/3 HTTP/1.1" 200 172
+INFO 2023-09-13 00:23:39,042 autoreload 3012 23100 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-13 00:23:39,603 autoreload 4624 22428 Watching for file changes with StatReloader
+INFO 2023-09-13 00:23:44,732 basehttp 4624 15496 "GET /order/3 HTTP/1.1" 200 200
+INFO 2023-09-13 00:24:03,398 basehttp 4624 15496 "GET /order/5 HTTP/1.1" 200 200
+INFO 2023-09-13 00:26:56,163 autoreload 4624 22428 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-13 00:26:56,723 autoreload 19180 19468 Watching for file changes with StatReloader
+INFO 2023-09-13 00:28:04,967 autoreload 19180 19468 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-13 00:28:05,532 autoreload 21640 14808 Watching for file changes with StatReloader
+INFO 2023-09-13 00:30:28,796 autoreload 21640 14808 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-13 00:30:29,344 autoreload 2992 22388 Watching for file changes with StatReloader
+INFO 2023-09-13 00:31:31,872 autoreload 2992 22388 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-13 00:31:32,454 autoreload 18384 21452 Watching for file changes with StatReloader
+INFO 2023-09-13 00:32:21,064 autoreload 18384 21452 C:\Users\1\Desktop\DjangoSeminar\myapp1\urls.py changed, reloading.
+INFO 2023-09-13 00:32:21,682 autoreload 8032 21180 Watching for file changes with StatReloader
+INFO 2023-09-13 00:32:24,583 basehttp 8032 1708 "GET / HTTP/1.1" 200 455
+ERROR 2023-09-13 00:32:33,903 log 8032 1708 Internal Server Error: /client/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 226, in get
+    context = self.get_context_data(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py", line 126, in get_context_data
+    products = Product.objects.filter(order=order).all()
+                                            ^^^^^
+NameError: name 'order' is not defined
+ERROR 2023-09-13 00:32:33,906 basehttp 8032 1708 "GET /client/3 HTTP/1.1" 500 78887
+ERROR 2023-09-13 00:34:41,552 log 8032 1708 Internal Server Error: /client/3
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\views\generic\base.py", line 226, in get
+    context = self.get_context_data(**kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py", line 126, in get_context_data
+    products = Product.objects.filter(order=order).all()
+                                            ^^^^^
+NameError: name 'order' is not defined
+ERROR 2023-09-13 00:34:41,552 basehttp 8032 1708 "GET /client/3 HTTP/1.1" 500 79024
+INFO 2023-09-13 00:37:39,449 autoreload 8032 21180 C:\Users\1\Desktop\DjangoSeminar\myapp1\views.py changed, reloading.
+INFO 2023-09-13 00:37:40,037 autoreload 20828 7396 Watching for file changes with StatReloader
+INFO 2023-09-13 00:37:47,650 basehttp 20828 7152 "GET / HTTP/1.1" 200 455
+INFO 2023-09-13 00:38:04,676 basehttp 20828 7152 "GET /client/3 HTTP/1.1" 200 172
+INFO 2023-09-17 12:53:48,946 autoreload 11452 17280 Watching for file changes with StatReloader
+INFO 2023-09-17 12:53:52,602 basehttp 11452 2852 "GET / HTTP/1.1" 200 455
+WARNING 2023-09-17 12:53:53,121 log 11452 2852 Not Found: /favicon.ico
+WARNING 2023-09-17 12:53:53,122 basehttp 11452 2852 "GET /favicon.ico HTTP/1.1" 404 5011
+INFO 2023-09-17 12:54:10,254 basehttp 11452 2852 "GET /lection04/user/add/ HTTP/1.1" 200 682
+INFO 2023-09-17 12:59:42,329 basehttp 11452 4324 "GET /lection04/user/add/ HTTP/1.1" 200 919
+INFO 2023-09-17 13:01:42,567 basehttp 11452 4324 "POST /lection04/user/add/ HTTP/1.1" 200 964
+INFO 2023-09-17 13:02:04,134 basehttp 11452 4324 "POST /lection04/user/add/ HTTP/1.1" 200 964
+INFO 2023-09-17 13:02:06,351 basehttp 11452 4324 "POST /lection04/user/add/ HTTP/1.1" 200 964
+WARNING 2023-09-18 23:44:37,070 log 11452 19356 Not Found: /favicon.ico
+WARNING 2023-09-18 23:44:37,072 basehttp 11452 19356 "GET /favicon.ico HTTP/1.1" 404 5011
+INFO 2023-09-19 17:25:54,733 autoreload 3404 7024 Watching for file changes with StatReloader
+INFO 2023-09-19 17:25:58,362 basehttp 3404 16236 "GET / HTTP/1.1" 200 455
+WARNING 2023-09-19 17:25:58,761 log 3404 16236 Not Found: /favicon.ico
+WARNING 2023-09-19 17:25:58,762 basehttp 3404 16236 "GET /favicon.ico HTTP/1.1" 404 5011
+WARNING 2023-09-19 17:26:05,334 log 3404 16236 Not Found: /forms
+WARNING 2023-09-19 17:26:05,335 basehttp 3404 16236 "GET /forms HTTP/1.1" 404 4993
+INFO 2023-09-19 17:26:33,162 basehttp 3404 16236 "GET /lection04/forms HTTP/1.1" 301 0
+INFO 2023-09-19 17:26:33,201 basehttp 3404 7996 "GET /lection04/forms/ HTTP/1.1" 200 1505
+INFO 2023-09-19 17:28:29,636 basehttp 3404 7996 "POST /lection04/forms/ HTTP/1.1" 200 1629
+INFO 2023-09-19 19:44:00,772 autoreload 3404 7024 C:\Users\1\Desktop\DjangoSeminar\lection04\forms.py changed, reloading.
+INFO 2023-09-19 19:44:01,514 autoreload 14408 2852 Watching for file changes with StatReloader
+INFO 2023-09-19 19:46:43,392 autoreload 14408 2852 C:\Users\1\Desktop\DjangoSeminar\lection04\forms.py changed, reloading.
+INFO 2023-09-19 19:46:44,005 autoreload 9340 18092 Watching for file changes with StatReloader
+INFO 2023-09-19 19:51:02,481 autoreload 9340 18092 C:\Users\1\Desktop\DjangoSeminar\lection04\views.py changed, reloading.
+INFO 2023-09-19 19:51:03,073 autoreload 16348 17808 Watching for file changes with StatReloader
+INFO 2023-09-19 19:52:27,796 autoreload 16348 17808 C:\Users\1\Desktop\DjangoSeminar\lection04\forms.py changed, reloading.
+INFO 2023-09-19 19:52:28,420 autoreload 2928 5672 Watching for file changes with StatReloader
+INFO 2023-09-19 19:53:58,757 autoreload 2928 5672 C:\Users\1\Desktop\DjangoSeminar\lection04\views.py changed, reloading.
+INFO 2023-09-19 19:53:59,342 autoreload 17884 10188 Watching for file changes with StatReloader
+INFO 2023-09-19 19:54:10,733 basehttp 17884 3480 "POST /lection04/forms/ HTTP/1.1" 200 2308
+INFO 2023-09-19 20:02:05,036 autoreload 17884 10188 C:\Users\1\Desktop\DjangoSeminar\lection04\forms.py changed, reloading.
+INFO 2023-09-19 20:02:05,675 autoreload 9984 4144 Watching for file changes with StatReloader
+INFO 2023-09-19 22:00:58,412 autoreload 9984 4144 C:\Users\1\Desktop\DjangoSeminar\lection04\models.py changed, reloading.
+INFO 2023-09-19 22:00:59,149 autoreload 10448 4004 Watching for file changes with StatReloader
+INFO 2023-09-19 22:41:32,422 autoreload 9412 8576 Watching for file changes with StatReloader
+INFO 2023-09-19 22:42:42,026 autoreload 9412 8576 C:\Users\1\Desktop\DjangoSeminar\lection04\views.py changed, reloading.
+INFO 2023-09-19 22:42:42,595 autoreload 7104 14452 Watching for file changes with StatReloader
+INFO 2023-09-19 22:42:57,557 autoreload 7104 14452 C:\Users\1\Desktop\DjangoSeminar\lection04\urls.py changed, reloading.
+INFO 2023-09-19 22:42:58,157 autoreload 2132 6320 Watching for file changes with StatReloader
+INFO 2023-09-19 22:43:09,177 basehttp 2132 10184 "POST /lection04/forms/ HTTP/1.1" 200 2308
+INFO 2023-09-19 22:43:19,902 basehttp 2132 10184 "POST /lection04/forms/ HTTP/1.1" 200 2308
+INFO 2023-09-19 22:43:32,402 basehttp 2132 10184 "POST /lection04/forms/ HTTP/1.1" 200 2261
+INFO 2023-09-19 22:43:51,359 basehttp 2132 10184 "GET /lection04/user/ HTTP/1.1" 200 1018
+INFO 2023-09-19 22:44:06,134 basehttp 2132 10184 "POST /lection04/user/ HTTP/1.1" 200 1167
+INFO 2023-09-19 22:48:14,221 autoreload 2132 6320 C:\Users\1\Desktop\DjangoSeminar\lection04\forms.py changed, reloading.
+INFO 2023-09-19 22:48:14,934 autoreload 15604 4360 Watching for file changes with StatReloader
+INFO 2023-09-19 22:50:14,000 autoreload 15604 4360 C:\Users\1\Desktop\DjangoSeminar\myproject\settings.py changed, reloading.
+INFO 2023-09-19 22:50:14,581 autoreload 17244 4380 Watching for file changes with StatReloader
+INFO 2023-09-19 22:51:28,577 autoreload 17244 4380 C:\Users\1\Desktop\DjangoSeminar\lection04\views.py changed, reloading.
+INFO 2023-09-19 22:51:29,272 autoreload 1688 8132 Watching for file changes with StatReloader
+INFO 2023-09-19 22:51:51,845 autoreload 1688 8132 C:\Users\1\Desktop\DjangoSeminar\lection04\views.py changed, reloading.
+INFO 2023-09-19 22:51:52,445 autoreload 1512 7856 Watching for file changes with StatReloader
+INFO 2023-09-19 22:53:09,072 autoreload 1512 7856 C:\Users\1\Desktop\DjangoSeminar\lection04\views.py changed, reloading.
+INFO 2023-09-19 22:53:09,680 autoreload 2796 4360 Watching for file changes with StatReloader
+INFO 2023-09-19 22:55:57,205 autoreload 2796 4360 C:\Users\1\Desktop\DjangoSeminar\lection04\views.py changed, reloading.
+INFO 2023-09-19 22:55:57,842 autoreload 10124 13348 Watching for file changes with StatReloader
+INFO 2023-09-19 22:58:26,928 autoreload 10124 13348 C:\Users\1\Desktop\DjangoSeminar\lection04\urls.py changed, reloading.
+INFO 2023-09-19 22:58:27,615 autoreload 9896 7472 Watching for file changes with StatReloader
+INFO 2023-09-19 22:58:46,995 autoreload 9896 7472 C:\Users\1\Desktop\DjangoSeminar\lection04\urls.py changed, reloading.
+INFO 2023-09-19 22:58:47,560 autoreload 2392 10728 Watching for file changes with StatReloader
+INFO 2023-09-19 23:07:55,768 basehttp 2392 17460 "GET /lection04/upload/ HTTP/1.1" 200 632
+ERROR 2023-09-19 23:08:28,307 log 2392 17460 Internal Server Error: /lection04/upload/
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\lection04\views.py", line 52, in upload_image
+    if form.is_valid():
+       ^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\forms.py", line 201, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\forms.py", line 196, in errors
+    self.full_clean()
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\forms.py", line 433, in full_clean
+    self._clean_fields()
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\forms.py", line 443, in _clean_fields
+    value = field.clean(value, bf.initial)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\fields.py", line 681, in clean
+    return super().clean(data)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\fields.py", line 198, in clean
+    value = self.to_python(value)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\fields.py", line 708, in to_python
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+ERROR 2023-09-19 23:08:28,311 basehttp 2392 17460 "POST /lection04/upload/ HTTP/1.1" 500 94464

@@ -1,5 +1,7 @@
 from django.db import models
 from django.db.models import Manager
+from django.urls import reverse
+
 
 
 # Create your models here.
@@ -40,6 +42,9 @@ class Post(models.Model):
     views= models.IntegerField(default=0)
     publish= models.BooleanField(default=False)
 
+    def get_asolute_url(self):
+        return reverse('article',kwargs={'pk':self.pk})
+
     def __str__(self):
         return f'{self.autor} - {self.title} - {self.publish}'
 
@@ -65,3 +70,4 @@ class Order(models.Model):
     product= models.ForeignKey(Product, on_delete=models.CASCADE)
     sum=models.IntegerField()
     order_date = models.DateField(auto_now_add=True)
+
