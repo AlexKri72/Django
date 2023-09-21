@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90501ce8-b7c7-4c7b-922d-6626336c0202" name="Changes" comment="2023-09-19">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="90501ce8-b7c7-4c7b-922d-6626336c0202" name="Changes" comment="2023-09-21" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695148921406</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2023-09-21">
+      <created>1695266416686</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695266416686</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +126,7 @@
     <MESSAGE value="2023-08-31" />
     <MESSAGE value="2023-09-08" />
     <MESSAGE value="2023-09-19" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-09-19" />
+    <MESSAGE value="2023-09-21" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-09-21" />
   </component>
 </project>
