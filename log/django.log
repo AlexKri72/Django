@@ -1537,3 +1537,38 @@ Traceback (most recent call last):
     from PIL import Image
 ModuleNotFoundError: No module named 'PIL'
 ERROR 2023-09-19 23:08:28,311 basehttp 2392 17460 "POST /lection04/upload/ HTTP/1.1" 500 94464
+INFO 2023-09-21 08:18:20,687 autoreload 12972 7208 Watching for file changes with StatReloader
+ERROR 2023-09-21 08:18:37,001 log 12972 3100 Internal Server Error: /lection04/upload/
+Traceback (most recent call last):
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\lection04\views.py", line 52, in upload_image
+    if form.is_valid():
+       ^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\forms.py", line 201, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\forms.py", line 196, in errors
+    self.full_clean()
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\forms.py", line 433, in full_clean
+    self._clean_fields()
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\forms.py", line 443, in _clean_fields
+    value = field.clean(value, bf.initial)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\fields.py", line 681, in clean
+    return super().clean(data)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\fields.py", line 198, in clean
+    value = self.to_python(value)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\1\Desktop\DjangoSeminar\Lib\site-packages\django\forms\fields.py", line 708, in to_python
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'
+ERROR 2023-09-21 08:18:37,004 basehttp 12972 3100 "POST /lection04/upload/ HTTP/1.1" 500 94464
+WARNING 2023-09-21 08:19:00,898 log 12972 3100 Not Found: /order/2
+WARNING 2023-09-21 08:19:00,899 basehttp 12972 3100 "GET /order/2 HTTP/1.1" 404 4999
+INFO 2023-09-21 08:19:19,372 basehttp 12972 3100 "GET /client/2 HTTP/1.1" 200 226
